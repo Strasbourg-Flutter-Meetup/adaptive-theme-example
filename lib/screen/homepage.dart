@@ -2,7 +2,7 @@
 // Author: Daniel Krentzlin
 // Dev Environment: Android Studio
 // Platform: Windows 11
-// Copyright:  2023
+// Copyright: Strasbourg Flutter Meetup Group 2023
 // ID: 20231130085541
 // 30.11.2023 08:55
 

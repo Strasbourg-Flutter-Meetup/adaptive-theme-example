@@ -2,7 +2,7 @@
 // Author: Daniel Krentzlin
 // Dev Environment: Android Studio
 // Platform: Windows 11
-// Copyright:  2023
+// Copyright: Strasbourg Flutter Meetup Group 2023
 // ID: 20231130085720
 // 30.11.2023 08:57
 import 'package:adaptive_theme/adaptive_theme.dart';
